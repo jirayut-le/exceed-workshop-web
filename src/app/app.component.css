@@ -11,15 +11,16 @@
 }
 
 .btn-home {
+    background: url("https://static.pexels.com/photos/132340/pexels-photo-132340.jpeg") no-repeat;
+    background-size: 100%;
     font-size: 20px;
     padding-top: 30%;
     padding-bottom: 50%;
-    background: #ffffff;
     border: none;
 }
 
 .btn {
-    color : #3e3e3e;
+    color : #ffffff;
 }
 
 .content-container {
